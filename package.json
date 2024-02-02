@@ -1,6 +1,7 @@
 {
   "name": "react-native-multiplier",
   "version": "0.1.0",
+    "private": true,
   "description": "test package",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
